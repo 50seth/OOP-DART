@@ -3,7 +3,7 @@ class Customer {
   String username;
   String location;
 
-//Constructot
+//Constructor
   Customer(this.email, this.username, this.location);
 
 //method
